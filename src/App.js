@@ -14,7 +14,7 @@ function App() {
            <Row>
               <Col className="center">
               <div className="flex justify-content">
-                <img src = {Polygon} width="22" height="15"/>
+                <img alt="" src = {Polygon} width="22" height="15"/>
                 <div className="" style={{marginLeft:10}}>Walker</div>
 
               </div>
@@ -42,7 +42,7 @@ function App() {
                 <div className="" style={{fontSize:30}}>New Routes</div>
                 <div className="ms-auto" style={{fontSize:12}}>
                   <div className="fontsize12">
-                  <img src = {Profile} />
+                  <img alt="" src = {Profile} />
                   </div>
                 </div>
                 </Stack>
@@ -51,13 +51,13 @@ function App() {
              <Col>
               <Row>
                 <Col>
-                    <img src = {Group1} width="326" height="307" />
+                    <img alt="" src = {Group1} width="326" height="307" />
                 </Col>
             
               </Row>
               <Row style={{marginTop:60}}>
                 <Col>
-                    <img src = {Group2} width="326" height="203" />
+                    <img alt="" src = {Group2} width="326" height="203" />
                 </Col>
                 
               </Row>
